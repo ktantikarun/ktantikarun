@@ -32,10 +32,12 @@ I am a software engineer with a keen interest in financial markets. Problem solv
 
 
 ### 📊 My Stats
-<p>
-  <img height="160em" src="https://leetcard.jacoblin.cool/ktantikarun?theme=light&font=Karma&ext=contest" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktantikarun&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<ul>
+  <p>
+    <img height="170em" src="https://leetcard.jacoblin.cool/ktantikarun?theme=light&font=Karma&ext=contest" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktantikarun&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  </p>
+</ul>
 
 
 ### 📄 My Latest Posts
@@ -44,7 +46,7 @@ I am a software engineer with a keen interest in financial markets. Problem solv
 </ul>
 
 ### 📓 My On-going Reading List
-
+<ul>
   <table border="0">
     <tr>
       <td>
@@ -55,3 +57,4 @@ I am a software engineer with a keen interest in financial markets. Problem solv
         by Michael Lewis<br>
       </td>
   </table>
+</ul>
