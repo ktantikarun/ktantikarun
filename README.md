@@ -1,4 +1,4 @@
-# Hi there ! I am Kit
+# Hi there, I am Kit!
 
 I am a software engineer with a keen interest in financial markets. Problem solving is the things I enjoy doing and I am trying to make a living off that. Currently, spending most of my times into learning and building projects to exploit the markets. My time off typically is spent on rock climbing.
 
@@ -14,6 +14,7 @@ I am a software engineer with a keen interest in financial markets. Problem solv
 
 ### 📈  Technology & Tools
 
+<ul>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> 
@@ -27,17 +28,30 @@ I am a software engineer with a keen interest in financial markets. Problem solv
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="VisualStudio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 </p>
+</ul>
 
 
 ### 📊 My Stats
-<img height="180em" src="https://leetcard.jacoblin.cool/ktantikarun?theme=light&font=Karma&ext=contest" />
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktantikarun&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="150em" src="https://leetcard.jacoblin.cool/ktantikarun?theme=light&font=Karma&ext=contest" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktantikarun&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
-### My Latest posts
+### 📄 My Latest Posts
 <ul>
-  <li><a href="https://medium.com/@krittaboon.t/persistance-in-redis-931768face32"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Persistance in Redis</b></a><br/><i>How can we make Redis a persistent database and what the pros and cons are.</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>Loren Ipsum</b></a><br/><i>Loren Ipsum</i></li>
+  <li><a href="https://medium.com/@krittaboon.t/persistance-in-redis-931768face32"><b>Persistance in Redis</b></a><br/><i>How can we make Redis a persistent database and what the pros and cons are.</i></li>
 </ul>
+
+### 📓 My On-going Reading List
+
+  <table>
+    <tr>
+      <td>
+        <img height="130em" src="https://m.media-amazon.com/images/I/41C3LHEK5TL.jpg">
+      </td>
+      <td>
+        <b>Flash Boys</b><br>
+        by Michael Lewis<br>
+      </td>
+  </table>
