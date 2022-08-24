@@ -25,7 +25,7 @@ I am a software engineer with a keen interest in financial markets. Problem solv
 
 
 #### 📊 My Stats
-<img height="273em" src="https://leetcard.jacoblin.cool/ktantikarun?theme=light&font=Karma&ext=contest" />
+<img height="180em" src="https://leetcard.jacoblin.cool/ktantikarun?theme=light&font=Karma&ext=contest" />
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktantikarun&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
