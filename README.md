@@ -10,9 +10,9 @@ I am a software engineer with a keen interest in financial markets. Problem solv
 - Previously, worked at <a href="https://www.refinitiv.com/en">Refinitiv</a> and <a href="https://www.zipmex.com">Zipmex</a>
 - Interested in <b>HFT</b>, <b>Low Latency Systems</b>, <b>Algorithmic Trading</b> and <b>Cryptocurrency</b>
 - Currently learning <b>DevOps</b>
-- I regulary write articles on Medium
+- Happy to collaborate on any interesting projects in finance fields, DM me !
 
-### 📈  Technology & Tools
+### 📈  Tech and Tools I have been using recently
 
 <ul>
 <p>
@@ -31,7 +31,7 @@ I am a software engineer with a keen interest in financial markets. Problem solv
 </ul>
 
 
-### 📊 My Stats
+### 📊 Some Stats
 <ul>
   <p>
     <img height="170em" src="https://leetcard.jacoblin.cool/ktantikarun?theme=light&font=Karma&ext=contest" />
@@ -40,7 +40,7 @@ I am a software engineer with a keen interest in financial markets. Problem solv
 </ul>
 
 
-### 📄 My Latest Posts
+### ⚡ My Latest Articles
 <ul>
   <li><a href="https://medium.com/@krittaboon.t/persistance-in-redis-931768face32"><b>Persistance in Redis</b></a><br/><i>How can we make Redis a persistent database and what the pros and cons are.</i></li>
 </ul>
@@ -55,6 +55,7 @@ I am a software engineer with a keen interest in financial markets. Problem solv
       <td>
         <b>Flash Boys</b><br>
         by Michael Lewis<br>
+        A story of how a small group of Wall Street iconoclasts exposes Wall Street's high frequency trading and dark pools to the public
       </td>
   </table>
 </ul>
