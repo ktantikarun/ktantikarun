@@ -54,7 +54,7 @@ I am a software engineer with a keen interest in financial markets. Currently, s
 <ul>
   <table border="0">
     <tr>
-      <td width="100px">
+      <td width="140px">
         <img height="130em" src="https://m.media-amazon.com/images/I/41C3LHEK5TL.jpg">
       </td>
       <td>
