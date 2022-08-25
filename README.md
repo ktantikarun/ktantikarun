@@ -1,6 +1,11 @@
-# Hi there, I am Kit!
+# Hi there, I am Kit! 🇹🇭
 
-I am a software engineer with a keen interest in financial markets. Problem solving is the things I enjoy doing and I am trying to make a living off that. Currently, spending most of my times into learning and building projects to exploit the markets. My time off typically is spent on rock climbing.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krittaboon-tantikarun-172634103)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ktantikarun)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://ktantikarun.medium.com/)
+
+I am a software engineer with a keen interest in financial markets. Currently, spending most of my times into learning and building projects to exploit the markets. My time off typically is spent on rock climbing.
 
 
 
@@ -10,7 +15,7 @@ I am a software engineer with a keen interest in financial markets. Problem solv
 - Previously, worked at <a href="https://www.refinitiv.com/en">Refinitiv</a> and <a href="https://www.zipmex.com">Zipmex</a>
 - Interested in <b>HFT</b>, <b>Low Latency Systems</b>, <b>Algorithmic Trading</b> and <b>Cryptocurrency</b>
 - Currently learning <b>DevOps</b>
-- Happy to collaborate on any interesting projects in finance fields, DM me !
+- Happy to collaborate on any interesting projects in financial market field, DM me !
 
 ### 📈  Tech and Tools I have been using recently
 
@@ -49,7 +54,7 @@ I am a software engineer with a keen interest in financial markets. Problem solv
 <ul>
   <table border="0">
     <tr>
-      <td>
+      <td width="90em">
         <img height="130em" src="https://m.media-amazon.com/images/I/41C3LHEK5TL.jpg">
       </td>
       <td>
